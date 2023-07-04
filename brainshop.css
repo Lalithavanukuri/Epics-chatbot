@@ -1,0 +1,5 @@
+body,html {
+    background:url("brbg.jpg") center center fixed;
+    background-size:100% auto;
+    background-repeat:no-repeat;
+}
